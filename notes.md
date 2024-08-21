@@ -46,5 +46,5 @@ A brief summary of the topic
 ---
 
 ## Action Items
-- Action Item 1: 
+- Action Item 1: items
 - Action Item 2:
