@@ -34,7 +34,7 @@ A brief summary of the topic
 ---
 
 ## Questions
-- Question 1: 
+- Question 1: what did we learn today
 - Question 2: 
 
 ---
